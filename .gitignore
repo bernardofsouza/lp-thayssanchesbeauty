@@ -1,0 +1,19 @@
+# Build artifacts
+node_modules/
+package.json
+package-lock.json
+*.log
+
+# Screenshots from dev/QA
+shot_*.png
+shot.js
+shot2.js
+convert.js
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
